@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hop Le, call me Felix
+- 👋 Hi, I’m Hop Le, call me Hop
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Learning Data Science
