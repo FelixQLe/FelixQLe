@@ -10,7 +10,7 @@ SKILLS SET:
 - SUPERVISED LEARNING: Linear and logistic regressions, decision trees, support vector machines(SVM), Deep Learning(supervisedalgorithms)
 - UNSUPERVISED LEARNING: k-means clustering, principal component analysis (PCA),
 - Deep Learning(Unsupervised Algorithms,Neural Networks), Linear Discriminant Analysis(LDA)
-- DATA VISUALIZATION: Matplotlib, Seaborn, Tableau
+- DATA VISUALIZATION: Matplotlib, Seaborn
 - PLATFORMS: Docker, AWS, Jupiter Notebook
 - BIG DATA: Spark, PySpark
 - OTHER SKILLS: Multi-tasking, Detail-oriented, Teamwork, Time Management, Problem solving, curiosity, creative thinking, Professional, Customer-Oriented
