@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science/Data Analytic/Machine Learning
 - 🌱 I’m currently looking to work and learn in Data Science/Data Analytic/Machine Learning
 - 📫 How to reach me lequanghop844@gmail.com
+- Linkedin: https://www.linkedin.com/in/felix-hop-q-le-8952a6164/
 
 SKILLS SET:
 
