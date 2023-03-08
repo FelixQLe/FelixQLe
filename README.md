@@ -6,8 +6,8 @@
 
 SKILLS SET:
 
-- PROGRAMMING: Python ( Numpy,Scikit-learn,Flask,Tensorflow),
-- SQL(MySQL, SQLite, Postgres), NONSQL(MONGODB)
+- PROGRAMMING: Python ( Numpy,Scikit-learn,Flask,Tensorflow), Pyspark
+- SQL(MySQL, SQLite, Postgres, Spark SQL), NONSQL(MONGODB)
 - SUPERVISED LEARNING: Linear and logistic regressions, decision trees, support vector machines(SVM), Deep Learning(supervisedalgorithms)
 - UNSUPERVISED LEARNING: k-means clustering, principal component analysis (PCA),
 - Deep Learning(Unsupervised Algorithms,Neural Networks), Linear Discriminant Analysis(LDA)
