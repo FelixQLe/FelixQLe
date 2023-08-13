@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hop Le, call me Felix. I am new grad in Data Science
-- 👀 I’m interested in Data Science/Data Analytic/Machine Learning
-- 🌱 I’m currently looking to work and learn in Data Science/Data Analytic/Machine Learning
+- 👀 I’m interested in Data Science/Data Analytic/Machine Learning/Data Engineering
+- 🌱 I’m currently looking to work and learn in Data Science/Data Analytic/Machine Learning/Data Engineer
 - 📫 How to reach me lequanghop844@gmail.com
 - Linkedin: https://www.linkedin.com/in/felix-hop-q-le-8952a6164/
 
