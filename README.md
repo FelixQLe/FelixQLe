@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Hop Le, call me Felix. I am new grad in Data Science
-- 👀 I’m interested in Data Science/Data Analytic/Machine Learning/Data Engineering
-- 🌱 I’m currently looking to work and learn in Data Science/Data Analytic/Machine Learning/Data Engineer
-- 📫 How to reach me lequanghop844@gmail.com
+- 👋 Hi, I’m Hop Le, call me Felix.
+- A passionate and results-driven Data Scientist with a deep commitment to solving intricate challenges through innovative thinking and customer-focused solutions. Proficient in a diverse array of technical skills, including Python, SQL, NoSQL, PySpark, Flask, and REST APIs, with a proven track record in constructing efficient Machine Learning Pipelines. Expertise in model development, feature engineering, hyperparameter tuning, and a wide range of supervised and unsupervised learning algorithms. Well-versed in data analysis, visualization, processing, and big data technologies. Strong skills in data balancing techniques and Git/GitHub for version control.
+
 - Linkedin: https://www.linkedin.com/in/felix-hop-q-le-8952a6164/
 
 SKILLS SET:
