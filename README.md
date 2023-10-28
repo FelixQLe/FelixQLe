@@ -4,15 +4,53 @@
 - Linkedin: https://www.linkedin.com/in/felix-hop-q-le-8952a6164/
 
 SKILLS SET:
-
-- PROGRAMMING: Python ( Numpy,Scikit-learn,Flask,Tensorflow), SQL(MySQL, SQLite, Postgres), NONSQL(MONGODB)
-- SUPERVISED LEARNING: Linear and logistic regressions, decision trees, support vector machines(SVM), Deep Learning(supervisedalgorithms)
-- UNSUPERVISED LEARNING: k-means clustering, principal component analysis (PCA), Deep Learning(Unsupervised Algorithms,Neural Networks), Linear Discriminant Analysis(LDA)
-- DATA VISUALIZATION: Matplotlib, Seaborn, Tableau
-- PLATFORMS: Docker, AWS, Jupiter Notebook
-- BIG DATA: Spark, PySpark
-- SPOKEN LANGUAGES: English, Vietnamese
-- OTHER SKILLS: Teamwork, Time Management, Problem solving, curiosity, creative thinking
+PROGRAMMING LANGUAGES:
+Python,
+SQL
+DATABASES:
+PostgreSQL,
+NoSQL,
+MySQL
+BIG DATA TOOLS:
+SparkSQL,
+PySpark,
+Apache Spark
+DEVOPS AND TOOLS:
+Apache Airfl ow,
+Docker,
+Flask,
+Resk APIs,
+Jupyter Notebooks
+CLOUD PLATFORMS:
+Google Cloud Platform,
+AWS,
+Kubernetes
+DATA VISUALIZATION AND PRESENTATION:
+Matplotlib,
+Seaborn,
+Power BI
+MACHINE LEARNING:
+Model development,
+Feature engineering,
+Hyperparameter tuning,
+Deep Learning (Supervised Algorithms),
+Supervised Learning,
+Unsupervised Learning,
+Neural Network Processing
+DATA ANALYSIS AND MODELING:
+Data Modeling,
+Data Clustering,
+Data Visualizing,
+Data Analyzing,
+Data Exploratory Analysis,
+Data processing,
+Extract, Transform, and Load (ETL)
+DEVELOPMENT AND TESTING:
+Writing Unit Tests,
+Data Balancing
+VERSION CONTROL:
+GitHub (Version Control)
+OTHER SKILLS: Teamwork, Time Management, Problem solving, curiosity, creative thinking
 
 <!---
 FelixQLe/FelixQLe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
