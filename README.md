@@ -4,6 +4,7 @@
 - Linkedin: https://www.linkedin.com/in/felix-hop-q-le-8952a6164/
 
 SKILLS SET:
+
 PROGRAMMING LANGUAGES:
 Python,
 SQL
@@ -11,6 +12,7 @@ DATABASES:
 PostgreSQL,
 NoSQL,
 MySQL
+
 BIG DATA TOOLS:
 SparkSQL,
 PySpark,
@@ -21,14 +23,17 @@ Docker,
 Flask,
 Resk APIs,
 Jupyter Notebooks
+
 CLOUD PLATFORMS:
 Google Cloud Platform,
 AWS,
 Kubernetes
+
 DATA VISUALIZATION AND PRESENTATION:
 Matplotlib,
 Seaborn,
 Power BI
+
 MACHINE LEARNING:
 Model development,
 Feature engineering,
@@ -37,6 +42,7 @@ Deep Learning (Supervised Algorithms),
 Supervised Learning,
 Unsupervised Learning,
 Neural Network Processing
+
 DATA ANALYSIS AND MODELING:
 Data Modeling,
 Data Clustering,
@@ -45,11 +51,13 @@ Data Analyzing,
 Data Exploratory Analysis,
 Data processing,
 Extract, Transform, and Load (ETL)
+
 DEVELOPMENT AND TESTING:
 Writing Unit Tests,
 Data Balancing
 VERSION CONTROL:
 GitHub (Version Control)
+
 OTHER SKILLS: Teamwork, Time Management, Problem solving, curiosity, creative thinking
 
 <!---
